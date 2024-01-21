@@ -4,6 +4,6 @@
     <ul>
         <li>此資料夾含括所有CPE的一顆星選集</li>
         <li>此資料夾中的所有程式碼皆由C語言寫成</li>
-        <li>此資料夾中的程式碼皆通過zerojudge以及online judge的測試資料</li>
+        <li>此資料夾中的程式碼皆通過online judge的測試資料</li>
     </ul>
 
