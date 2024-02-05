@@ -2,7 +2,6 @@
 #include <string.h>
 
 
-
 int main() {
 
     int i, flag, check[50][50] = {0};
