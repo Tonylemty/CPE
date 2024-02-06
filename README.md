@@ -5,6 +5,7 @@
 ### **目錄** :closed_book:
 
 * [CPE 49題精選題目](https://github.com/Tonylemty/CPE/tree/main/50-stars)
+* [CPE其他一星題](https://github.com/Tonylemty/CPE/tree/main/one_star)
 
 ### **待新增項目**  :bangbang:
 
